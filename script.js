@@ -1,7 +1,7 @@
 // ===== PAROL TIZIMI =====
 const AUTH_KEY = 'SHodlik_test_texlaog_markazi_authenticated';
 const VALID_CREDENTIALS = {
-    username: 'Texnologiya2025',
+    username: 'Texnologiya2026',
     password: 'Odina1221'
 };
 
