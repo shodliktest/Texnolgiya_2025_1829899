@@ -1,7 +1,7 @@
 // ===== PAROL TIZIMI =====
 const AUTH_KEY = 'SHodlik_test_texlaog_markazi_authenticated';
 const VALID_CREDENTIALS = {
-    username: 'Texnologiya2025',
+    username: 'Texnologiya2026',
     password: 'test1221'
 };
 
@@ -4826,4 +4826,5 @@ function updateTimer() {
         String(seconds).padStart(2, '0');
 
     document.getElementById('timer').textContent = formattedTime;
+
 }
