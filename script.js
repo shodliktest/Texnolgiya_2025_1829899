@@ -1,8 +1,8 @@
 // ===== PAROL TIZIMI =====
 const AUTH_KEY = 'SHodlik_test_texlaog_markazi_authenticated';
 const VALID_CREDENTIALS = {
-    username: 'Texnologiya2026',
-    password: 'Odina1221'
+    username: 'Texnologiya2025',
+    password: 'test1221'
 };
 
 // ===== TEST SAVOLLARI (400 TA) =====
