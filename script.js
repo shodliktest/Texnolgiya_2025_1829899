@@ -2,7 +2,7 @@
 const AUTH_KEY = 'SHodlik_test_texlaog_markazi_authenticated';
 const VALID_CREDENTIALS = {
     username: 'Texnologiya2026',
-    password: 'test1221'
+    password: 'qwerty1221'
 };
 
 // ===== TEST SAVOLLARI (400 TA) =====
@@ -4828,3 +4828,4 @@ function updateTimer() {
     document.getElementById('timer').textContent = formattedTime;
 
 }
+
